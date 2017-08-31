@@ -13,4 +13,4 @@ if __name__ == "__main__":
 	if isitfound:
 		print("your item is in the list")
 	else:
-		print("your item is not in the list")
+		print("your item is not in the list please check")
